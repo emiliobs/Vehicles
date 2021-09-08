@@ -146,6 +146,7 @@ C:\Projects\Vehicles\Vehicles.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\d
 C:\Projects\Vehicles\Vehicles.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\VehicleTypes\Create.cshtml.g.cs
 C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\VehicleTypes\Delete.cshtml.g.cs
-C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\VehicleTypes\Details.cshtml.g.cs
 C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\VehicleTypes\Edit.cshtml.g.cs
 C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\VehicleTypes\Index.cshtml.g.cs
+C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\VehicleTypes\_VehicleType.cshtml.g.cs
+C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\Shared\_DeleteDialog.cshtml.g.cs
