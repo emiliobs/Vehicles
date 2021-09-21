@@ -150,3 +150,7 @@ C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\VehicleTypes\Edit
 C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\VehicleTypes\Index.cshtml.g.cs
 C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\VehicleTypes\_VehicleType.cshtml.g.cs
 C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\Shared\_DeleteDialog.cshtml.g.cs
+C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\Procedures\Index.cshtml.g.cs
+C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\Procedures\Create.cshtml.g.cs
+C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\Procedures\_Procedure.cshtml.g.cs
+C:\Projects\Vehicles\Vehicles.API\obj\Debug\net5.0\Razor\Views\Procedures\Edit.cshtml.g.cs

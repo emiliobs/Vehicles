@@ -2,7 +2,6 @@ C:\Projects\Vehicles\Vehicles.Common\bin\Debug\net5.0\Vehicles.Common.deps.json
 C:\Projects\Vehicles\Vehicles.Common\bin\Debug\net5.0\Vehicles.Common.dll
 C:\Projects\Vehicles\Vehicles.Common\bin\Debug\net5.0\ref\Vehicles.Common.dll
 C:\Projects\Vehicles\Vehicles.Common\bin\Debug\net5.0\Vehicles.Common.pdb
-C:\Projects\Vehicles\Vehicles.Common\obj\Debug\net5.0\Vehicles.Common.csproj.AssemblyReference.cache
 C:\Projects\Vehicles\Vehicles.Common\obj\Debug\net5.0\Vehicles.Common.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projects\Vehicles\Vehicles.Common\obj\Debug\net5.0\Vehicles.Common.AssemblyInfoInputs.cache
 C:\Projects\Vehicles\Vehicles.Common\obj\Debug\net5.0\Vehicles.Common.AssemblyInfo.cs
